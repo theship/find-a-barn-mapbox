@@ -20,6 +20,7 @@ Click on the map or enter coordinates to retrieve building data and visualize it
 ```sh
 git clone https://github.com/your-username/find-a-building.git
 cd find-a-building
+```
 
 ### 2️⃣ Install Dependencies
 
@@ -42,6 +43,7 @@ node server.js
 ```
 
 The app will be available at:
+
 📍 http://localhost:3000
 
 ## 🎮 How to Use
