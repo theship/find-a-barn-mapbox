@@ -56,7 +56,6 @@ The map will automatically zoom in and highlight buildings.
 
 ## 🛠 Troubleshooting
 
-
 ### ❌ "Error: No buildings found at this location"
 
 Ensure the location is within a mapped area.
